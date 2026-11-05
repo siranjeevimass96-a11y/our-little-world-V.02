@@ -1,0 +1,963 @@
+{
+  "schema": 1,
+  "status": "ready",
+  "chapters": [
+    {
+      "chapter": 0,
+      "slug": "forest",
+      "title": "Whispering Forest",
+      "poster": "cinematics/posters/01-forest-arrival.jpg",
+      "gameplayPoster": "cinematics/posters/01-forest-arrival.jpg",
+      "idle": null,
+      "phases": {
+        "arrival": [
+          {
+            "id": "01-forest-arrival",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Sunshine walks on a mossy path; her skirt follows her steps. Lumi flies from a fern to her shoulder. Sunshine smiles and looks toward five fireflies.",
+            "camera": "35 mm low tracking shot from behind to three-quarter front; settle at the firefly clearing.",
+            "landscape": "cinematics/01-forest-arrival.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/01-forest-arrival.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/01-forest-arrival-landscape.mp4",
+            "expectedPortrait": "cinematics/01-forest-arrival-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine walks on a mossy path; her skirt follows her steps. Lumi flies from a fern to her shoulder. Sunshine smiles and looks toward five fireflies. CAMERA: 35 mm low tracking shot from behind to three-quarter front; settle at the firefly clearing. DURATION: 8 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine walks on a mossy path; her skirt follows her steps. Lumi flies from a fern to her shoulder. Sunshine smiles and looks toward five fireflies. CAMERA: 35 mm low tracking shot from behind to three-quarter front; settle at the firefly clearing. DURATION: 8 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "pavo-5767ed7f0405-0-521236674c36.mp4",
+            "hasAudio": true,
+            "caption": "An invitation to a kingdom waiting just for you."
+          },
+          {
+            "id": "D01-lumi-forest",
+            "label": "Lumi has a royal invitation for Sunshine.",
+            "kind": "dialogue",
+            "status": "ready",
+            "seconds": 8.0,
+            "landscape": "cinematics/D01-lumi-forest.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/D01-lumi-forest.jpg",
+            "portraitPoster": null,
+            "sourceFile": "D01-lumi-forest.mp4(1).mp4",
+            "hasAudio": true,
+            "caption": "Lumi has a royal invitation for Sunshine."
+          }
+        ],
+        "reward": [
+          {
+            "id": "01-forest-reward",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Five fireflies spiral into a golden trail. Lumi places the woodland charm in Sunshine’s open palm. Sunshine closes her hand gently and smiles.",
+            "camera": "50 mm medium two-shot, subtle dolly to the gift. End on the open path.",
+            "landscape": "cinematics/01-forest-reward.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/01-forest-reward.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/01-forest-reward-landscape.mp4",
+            "expectedPortrait": "cinematics/01-forest-reward-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Five fireflies spiral into a golden trail. Lumi places the woodland charm in Sunshine’s open palm. Sunshine closes her hand gently and smiles. CAMERA: 50 mm medium two-shot, subtle dolly to the gift. End on the open path. DURATION: 6 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Five fireflies spiral into a golden trail. Lumi places the woodland charm in Sunshine’s open palm. Sunshine closes her hand gently and smiles. CAMERA: 50 mm medium two-shot, subtle dolly to the gift. End on the open path. DURATION: 6 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "02-forest-gift.mp4.mp4",
+            "hasAudio": true,
+            "caption": "A woodland charm, and the first little piece of magic."
+          }
+        ],
+        "departure": [
+          {
+            "id": "01-forest-departure",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Sunshine and Lumi walk along the golden trail toward a stream; Wisp is glimpsed at a stone bridge carrying an envelope.",
+            "camera": "35 mm follow shot. End on the bridge from its western approach.",
+            "landscape": "cinematics/01-forest-departure.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/01-forest-departure.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/01-forest-departure-landscape.mp4",
+            "expectedPortrait": "cinematics/01-forest-departure-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine and Lumi walk along the golden trail toward a stream; Wisp is glimpsed at a stone bridge carrying an envelope. CAMERA: 35 mm follow shot. End on the bridge from its western approach. DURATION: 6 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine and Lumi walk along the golden trail toward a stream; Wisp is glimpsed at a stone bridge carrying an envelope. CAMERA: 35 mm follow shot. End on the bridge from its western approach. DURATION: 6 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "03-forest-departure.mp4.mp4",
+            "hasAudio": true,
+            "caption": "Follow the golden trail. Your journey has begun."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": 1,
+      "slug": "crossing",
+      "title": "Woodland Crossing",
+      "poster": "cinematics/posters/02-crossing-arrival.jpg",
+      "gameplayPoster": "cinematics/posters/02-crossing-arrival.jpg",
+      "idle": null,
+      "phases": {
+        "arrival": [
+          {
+            "id": "02-crossing-arrival",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Sunshine stops at the stream. Wisp trots toward her holding a sealed cream envelope and nods toward three carved bridge stones. Water flows beneath the arch.",
+            "camera": "35 mm move right from western approach, settle on leaf, moon and star stones.",
+            "landscape": "cinematics/02-crossing-arrival.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/02-crossing-arrival.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/02-crossing-arrival-landscape.mp4",
+            "expectedPortrait": "cinematics/02-crossing-arrival-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine stops at the stream. Wisp trots toward her holding a sealed cream envelope and nods toward three carved bridge stones. Water flows beneath the arch. CAMERA: 35 mm move right from western approach, settle on leaf, moon and star stones. DURATION: 7 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine stops at the stream. Wisp trots toward her holding a sealed cream envelope and nods toward three carved bridge stones. Water flows beneath the arch. CAMERA: 35 mm move right from western approach, settle on leaf, moon and star stones. DURATION: 7 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "04-crossing-arrival.mp4.mp4",
+            "hasAudio": true,
+            "caption": "Wisp is waiting by the enchanted crossing."
+          }
+        ],
+        "reward": [
+          {
+            "id": "02-crossing-reward",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Leaf, moon and star carvings light in that order. Wisp checks his envelope and bows; Sunshine laughs softly.",
+            "camera": "50 mm tilt from lit stones to Sunshine and Wisp; keep Lumi visible.",
+            "landscape": "cinematics/02-crossing-reward.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/02-crossing-reward.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/02-crossing-reward-landscape.mp4",
+            "expectedPortrait": "cinematics/02-crossing-reward-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Leaf, moon and star carvings light in that order. Wisp checks his envelope and bows; Sunshine laughs softly. CAMERA: 50 mm tilt from lit stones to Sunshine and Wisp; keep Lumi visible. DURATION: 5 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Leaf, moon and star carvings light in that order. Wisp checks his envelope and bows; Sunshine laughs softly. CAMERA: 50 mm tilt from lit stones to Sunshine and Wisp; keep Lumi visible. DURATION: 5 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "05-crossing-reward.mp4.mp4",
+            "hasAudio": true,
+            "caption": "The bridge remembers the way."
+          }
+        ],
+        "departure": [
+          {
+            "id": "02-crossing-departure",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Sunshine crosses the bridge with natural foot contact; Lumi glides and Wisp trots beside her. They reach a flowering arch.",
+            "camera": "35 mm side tracking; end behind the group looking into the garden arch.",
+            "landscape": "cinematics/02-crossing-departure.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/02-crossing-departure.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/02-crossing-departure-landscape.mp4",
+            "expectedPortrait": "cinematics/02-crossing-departure-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine crosses the bridge with natural foot contact; Lumi glides and Wisp trots beside her. They reach a flowering arch. CAMERA: 35 mm side tracking; end behind the group looking into the garden arch. DURATION: 7 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine crosses the bridge with natural foot contact; Lumi glides and Wisp trots beside her. They reach a flowering arch. CAMERA: 35 mm side tracking; end behind the group looking into the garden arch. DURATION: 7 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "06-crossing-departure.mp4.mp4",
+            "hasAudio": true,
+            "caption": "Across the stream, another surprise awaits."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": 2,
+      "slug": "memories",
+      "title": "Garden of Memories",
+      "poster": "cinematics/posters/03-memories-arrival.jpg",
+      "gameplayPoster": "cinematics/posters/03-memories-arrival.jpg",
+      "idle": null,
+      "phases": {
+        "arrival": [
+          {
+            "id": "03-memories-arrival",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Rosie opens the flowering arch. Sunshine enters and notices nine blank framed puzzle tiles on a garden table; butterflies circle climbing roses.",
+            "camera": "35 mm pass through arch; settle above the table. Photographs will be composited in the website, never generated.",
+            "landscape": "cinematics/03-memories-arrival.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/03-memories-arrival.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/03-memories-arrival-landscape.mp4",
+            "expectedPortrait": "cinematics/03-memories-arrival-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Rosie opens the flowering arch. Sunshine enters and notices nine blank framed puzzle tiles on a garden table; butterflies circle climbing roses. CAMERA: 35 mm pass through arch; settle above the table. Photographs will be composited in the website, never generated. DURATION: 7 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Rosie opens the flowering arch. Sunshine enters and notices nine blank framed puzzle tiles on a garden table; butterflies circle climbing roses. CAMERA: 35 mm pass through arch; settle above the table. Photographs will be composited in the website, never generated. DURATION: 7 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "07-memories-arrival.mp4.mp4",
+            "hasAudio": true,
+            "caption": "Every memory has a place in Rosie’s garden."
+          },
+          {
+            "id": "D02-rosie-memories",
+            "label": "Rosie welcomes you to the garden of memories.",
+            "kind": "dialogue",
+            "status": "ready",
+            "seconds": 8.0,
+            "landscape": "cinematics/D02-rosie-memories.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/D02-rosie-memories.jpg",
+            "portraitPoster": null,
+            "sourceFile": "D02-rosie-memories.mp4.mp4",
+            "hasAudio": true,
+            "caption": "Rosie welcomes you to the garden of memories."
+          }
+        ],
+        "reward": [
+          {
+            "id": "03-memories-reward",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Roses awaken around the garden. Rosie offers one memory rose; Sunshine smells it and carefully places it beside her woodland charm.",
+            "camera": "50 mm two-shot with brief close-up on rose and a gentle emotional smile.",
+            "landscape": "cinematics/03-memories-reward.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/03-memories-reward.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/03-memories-reward-landscape.mp4",
+            "expectedPortrait": "cinematics/03-memories-reward-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Roses awaken around the garden. Rosie offers one memory rose; Sunshine smells it and carefully places it beside her woodland charm. CAMERA: 50 mm two-shot with brief close-up on rose and a gentle emotional smile. DURATION: 7 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Roses awaken around the garden. Rosie offers one memory rose; Sunshine smells it and carefully places it beside her woodland charm. CAMERA: 50 mm two-shot with brief close-up on rose and a gentle emotional smile. DURATION: 7 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "08-memories-reward.mp4.mp4",
+            "hasAudio": true,
+            "caption": "A memory rose to carry close to your heart."
+          }
+        ],
+        "departure": [
+          {
+            "id": "03-memories-departure",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Sunshine, Lumi and Wisp leave through a moonflower arch and approach a moonlit lakeshore. Rosie waves.",
+            "camera": "35 mm follow; end at the shoreline with distant palace reflection center-right.",
+            "landscape": "cinematics/03-memories-departure.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/03-memories-departure.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/03-memories-departure-landscape.mp4",
+            "expectedPortrait": "cinematics/03-memories-departure-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine, Lumi and Wisp leave through a moonflower arch and approach a moonlit lakeshore. Rosie waves. CAMERA: 35 mm follow; end at the shoreline with distant palace reflection center-right. DURATION: 6 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine, Lumi and Wisp leave through a moonflower arch and approach a moonlit lakeshore. Rosie waves. CAMERA: 35 mm follow; end at the shoreline with distant palace reflection center-right. DURATION: 6 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "09-memories-departure.mp4.mp4",
+            "hasAudio": true,
+            "caption": "The moonflowers open a path to the lake."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": 3,
+      "slug": "lake",
+      "title": "Crystal Lake",
+      "poster": "cinematics/posters/04-lake-arrival.jpg",
+      "gameplayPoster": "cinematics/posters/04-lake-arrival.jpg",
+      "idle": null,
+      "phases": {
+        "arrival": [
+          {
+            "id": "04-lake-arrival",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Moonlit ripples reflect the palace. Selene swims toward Sunshine. Lumi points at five star reflections making the points of a crown.",
+            "camera": "35 mm crane down to shore; settle on five reflections, shore and heroine at left.",
+            "landscape": "cinematics/04-lake-arrival.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/04-lake-arrival.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/04-lake-arrival-landscape.mp4",
+            "expectedPortrait": "cinematics/04-lake-arrival-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Moonlit ripples reflect the palace. Selene swims toward Sunshine. Lumi points at five star reflections making the points of a crown. CAMERA: 35 mm crane down to shore; settle on five reflections, shore and heroine at left. DURATION: 8 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Moonlit ripples reflect the palace. Selene swims toward Sunshine. Lumi points at five star reflections making the points of a crown. CAMERA: 35 mm crane down to shore; settle on five reflections, shore and heroine at left. DURATION: 8 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "10-lake-arrival.mp4.mp4",
+            "hasAudio": true,
+            "caption": "The palace shines beyond the moonlit water."
+          },
+          {
+            "id": "D03-selene-lake",
+            "label": "Selene reveals the magic of the moonlit lake.",
+            "kind": "dialogue",
+            "status": "ready",
+            "seconds": 8.0,
+            "landscape": "cinematics/D03-selene-lake.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/D03-selene-lake.jpg",
+            "portraitPoster": null,
+            "sourceFile": "D03-selene-lake.mp4.mp4",
+            "hasAudio": true,
+            "caption": "Selene reveals the magic of the moonlit lake."
+          }
+        ],
+        "reward": [
+          {
+            "id": "04-lake-reward",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "The crown constellation shines; a crystal star floats into Sunshine’s hands. Selene guides a small carved boat to the jetty.",
+            "camera": "50 mm medium shot from shoreline; boat enters right without obscuring the crystal star.",
+            "landscape": "cinematics/04-lake-reward.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/04-lake-reward.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/04-lake-reward-landscape.mp4",
+            "expectedPortrait": "cinematics/04-lake-reward-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: The crown constellation shines; a crystal star floats into Sunshine’s hands. Selene guides a small carved boat to the jetty. CAMERA: 50 mm medium shot from shoreline; boat enters right without obscuring the crystal star. DURATION: 7 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: The crown constellation shines; a crystal star floats into Sunshine’s hands. Selene guides a small carved boat to the jetty. CAMERA: 50 mm medium shot from shoreline; boat enters right without obscuring the crystal star. DURATION: 7 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "11-lake-reward.mp4.mp4",
+            "hasAudio": true,
+            "caption": "A little starlight, just for you."
+          }
+        ],
+        "departure": [
+          {
+            "id": "04-lake-departure",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Sunshine steps onto the stable boat, places a hand on the rail, sits naturally. Wisp joins with the envelope. Selene leads as the boat sails toward the palace.",
+            "camera": "35 mm single lateral tracking shot; end with the boat at a lantern-lined landing, oriented toward the valley.",
+            "landscape": "cinematics/04-lake-departure.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/04-lake-departure.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/04-lake-departure-landscape.mp4",
+            "expectedPortrait": "cinematics/04-lake-departure-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine steps onto the stable boat, places a hand on the rail, sits naturally. Wisp joins with the envelope. Selene leads as the boat sails toward the palace. CAMERA: 35 mm single lateral tracking shot; end with the boat at a lantern-lined landing, oriented toward the valley. DURATION: 10 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine steps onto the stable boat, places a hand on the rail, sits naturally. Wisp joins with the envelope. Selene leads as the boat sails toward the palace. CAMERA: 35 mm single lateral tracking shot; end with the boat at a lantern-lined landing, oriented toward the valley. DURATION: 10 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "12-lake-departure.mp4.mp4",
+            "hasAudio": true,
+            "caption": "Sail toward the next chapter of your story."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": 4,
+      "slug": "lanterns",
+      "title": "Valley of Floating Lanterns",
+      "poster": "cinematics/posters/05-lanterns-arrival.jpg",
+      "gameplayPoster": "cinematics/posters/05-lanterns-arrival.jpg",
+      "idle": null,
+      "phases": {
+        "arrival": [
+          {
+            "id": "05-lanterns-arrival",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Sunshine steps from the landing into a deep valley. Orin raises a wand carrying a magical flame. Moss carefully presents four unlit lanterns.",
+            "camera": "35 mm forward move from landing to four lantern stations; end centered on their wicks.",
+            "landscape": "cinematics/05-lanterns-arrival.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/05-lanterns-arrival.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/05-lanterns-arrival-landscape.mp4",
+            "expectedPortrait": "cinematics/05-lanterns-arrival-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine steps from the landing into a deep valley. Orin raises a wand carrying a magical flame. Moss carefully presents four unlit lanterns. CAMERA: 35 mm forward move from landing to four lantern stations; end centered on their wicks. DURATION: 7 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine steps from the landing into a deep valley. Orin raises a wand carrying a magical flame. Moss carefully presents four unlit lanterns. CAMERA: 35 mm forward move from landing to four lantern stations; end centered on their wicks. DURATION: 7 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "13-lanterns-arrival.mp4.mp4",
+            "hasAudio": true,
+            "caption": "Orin and Moss welcome you to the lantern valley."
+          }
+        ],
+        "reward": [
+          {
+            "id": "05-lanterns-reward",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Four lanterns rise among hundreds of distant lights. Orin draws a glowing route through the valley. Moss beams and bows; Sunshine watches with delighted eyes.",
+            "camera": "35 mm crane up with lanterns, return to an intimate medium shot; no abrupt camera spin.",
+            "landscape": "cinematics/05-lanterns-reward.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/05-lanterns-reward.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/05-lanterns-reward-landscape.mp4",
+            "expectedPortrait": "cinematics/05-lanterns-reward-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Four lanterns rise among hundreds of distant lights. Orin draws a glowing route through the valley. Moss beams and bows; Sunshine watches with delighted eyes. CAMERA: 35 mm crane up with lanterns, return to an intimate medium shot; no abrupt camera spin. DURATION: 8 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Four lanterns rise among hundreds of distant lights. Orin draws a glowing route through the valley. Moss beams and bows; Sunshine watches with delighted eyes. CAMERA: 35 mm crane up with lanterns, return to an intimate medium shot; no abrupt camera spin. DURATION: 8 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "14-lanterns-reward.mp4.mp4",
+            "hasAudio": true,
+            "caption": "Let your light join a sky full of wishes."
+          }
+        ],
+        "departure": [
+          {
+            "id": "05-lanterns-departure",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Sunshine and her friends follow the illuminated path toward a grassy hill. A tiny warm spark appears behind the crest.",
+            "camera": "35 mm tracking at eye level; end looking up the same hill from its base.",
+            "landscape": "cinematics/05-lanterns-departure.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/05-lanterns-departure.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/05-lanterns-departure-landscape.mp4",
+            "expectedPortrait": "cinematics/05-lanterns-departure-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine and her friends follow the illuminated path toward a grassy hill. A tiny warm spark appears behind the crest. CAMERA: 35 mm tracking at eye level; end looking up the same hill from its base. DURATION: 6 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine and her friends follow the illuminated path toward a grassy hill. A tiny warm spark appears behind the crest. CAMERA: 35 mm tracking at eye level; end looking up the same hill from its base. DURATION: 6 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "15-lanterns-departure.mp4.mp4",
+            "hasAudio": true,
+            "caption": "A tiny spark is waiting beyond the hill."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": 5,
+      "slug": "dragon",
+      "title": "Dragon’s Hill",
+      "poster": "cinematics/posters/06-dragon-arrival.jpg",
+      "gameplayPoster": "cinematics/posters/06-dragon-arrival.jpg",
+      "idle": null,
+      "phases": {
+        "arrival": [
+          {
+            "id": "06-dragon-arrival",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Ember peeks above the hill, flutters his small wings, sneezes gentle sparks, then looks embarrassed. Sunshine kneels slightly to greet him; he presents a basket.",
+            "camera": "50 mm expressive two-shot with all limbs visible; settle facing the open sky.",
+            "landscape": "cinematics/06-dragon-arrival.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/06-dragon-arrival.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/06-dragon-arrival-landscape.mp4",
+            "expectedPortrait": "cinematics/06-dragon-arrival-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Ember peeks above the hill, flutters his small wings, sneezes gentle sparks, then looks embarrassed. Sunshine kneels slightly to greet him; he presents a basket. CAMERA: 50 mm expressive two-shot with all limbs visible; settle facing the open sky. DURATION: 8 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Ember peeks above the hill, flutters his small wings, sneezes gentle sparks, then looks embarrassed. Sunshine kneels slightly to greet him; he presents a basket. CAMERA: 50 mm expressive two-shot with all limbs visible; settle facing the open sky. DURATION: 8 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "16-dragon-arrival.mp4 1.mp4",
+            "hasAudio": true,
+            "caption": "Meet Ember, your wonderfully clumsy little friend."
+          },
+          {
+            "id": "D04-ember-hearts",
+            "label": "Ember has a little game for you.",
+            "kind": "dialogue",
+            "status": "ready",
+            "seconds": 8.0,
+            "landscape": "cinematics/D04-ember-hearts.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/D04-ember-hearts.jpg",
+            "portraitPoster": null,
+            "sourceFile": "D04-ember-hearts.mp4.mp4",
+            "hasAudio": true,
+            "caption": "Ember has a little game for you."
+          }
+        ],
+        "reward": [
+          {
+            "id": "06-dragon-reward",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Ember celebrates regardless of score. He gives Sunshine a proud little bow; she holds the basket and smiles. His wings spread as a passage lights behind him.",
+            "camera": "50 mm medium shot into 35 mm wider framing. End on passage entrance.",
+            "landscape": "cinematics/06-dragon-reward.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/06-dragon-reward.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/06-dragon-reward-landscape.mp4",
+            "expectedPortrait": "cinematics/06-dragon-reward-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Ember celebrates regardless of score. He gives Sunshine a proud little bow; she holds the basket and smiles. His wings spread as a passage lights behind him. CAMERA: 50 mm medium shot into 35 mm wider framing. End on passage entrance. DURATION: 6 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Ember celebrates regardless of score. He gives Sunshine a proud little bow; she holds the basket and smiles. His wings spread as a passage lights behind him. CAMERA: 50 mm medium shot into 35 mm wider framing. End on passage entrance. DURATION: 6 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "17-dragon-reward.mp4.mp4",
+            "hasAudio": true,
+            "caption": "You already caught his heart."
+          }
+        ],
+        "departure": [
+          {
+            "id": "06-dragon-departure",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Ember escorts Sunshine, Lumi and Wisp through the glowing passage. Emerald light gradually reveals the palace gardens.",
+            "camera": "35 mm follow behind shoulder; exit at a rose bed under the palace towers.",
+            "landscape": "cinematics/06-dragon-departure.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/06-dragon-departure.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/06-dragon-departure-landscape.mp4",
+            "expectedPortrait": "cinematics/06-dragon-departure-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Ember escorts Sunshine, Lumi and Wisp through the glowing passage. Emerald light gradually reveals the palace gardens. CAMERA: 35 mm follow behind shoulder; exit at a rose bed under the palace towers. DURATION: 7 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Ember escorts Sunshine, Lumi and Wisp through the glowing passage. Emerald light gradually reveals the palace gardens. CAMERA: 35 mm follow behind shoulder; exit at a rose bed under the palace towers. DURATION: 7 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "18-dragon-departure.mp4.mp4",
+            "hasAudio": true,
+            "caption": "Ember shows you the path to the royal gardens."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": 6,
+      "slug": "gardens",
+      "title": "Royal Gardens",
+      "poster": "cinematics/posters/07-gardens-arrival.jpg",
+      "gameplayPoster": "cinematics/posters/07-gardens-arrival.jpg",
+      "idle": null,
+      "phases": {
+        "arrival": [
+          {
+            "id": "07-gardens-arrival",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Aster walks gracefully to the rose bed. Sunshine touches his mane and receives a seed. A watering can and a sun charm wait beside three weeds.",
+            "camera": "50 mm medium profile, then lower to soil-level framing matching the interactive rose.",
+            "landscape": "cinematics/07-gardens-arrival.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/07-gardens-arrival.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/07-gardens-arrival-landscape.mp4",
+            "expectedPortrait": "cinematics/07-gardens-arrival-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Aster walks gracefully to the rose bed. Sunshine touches his mane and receives a seed. A watering can and a sun charm wait beside three weeds. CAMERA: 50 mm medium profile, then lower to soil-level framing matching the interactive rose. DURATION: 7 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Aster walks gracefully to the rose bed. Sunshine touches his mane and receives a seed. A watering can and a sun charm wait beside three weeds. CAMERA: 50 mm medium profile, then lower to soil-level framing matching the interactive rose. DURATION: 7 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "19-gardens-arrival.mp4.mp4",
+            "hasAudio": true,
+            "caption": "Aster has saved a special seed for you."
+          },
+          {
+            "id": "D05-aster-gardens",
+            "label": "Aster welcomes you to the royal gardens.",
+            "kind": "dialogue",
+            "status": "ready",
+            "seconds": 8.0,
+            "landscape": "cinematics/D05-aster-gardens.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/D05-aster-gardens.jpg",
+            "portraitPoster": null,
+            "sourceFile": "D05-aster-gardens.mp4.mp4",
+            "hasAudio": true,
+            "caption": "Aster welcomes you to the royal gardens."
+          }
+        ],
+        "reward": [
+          {
+            "id": "07-gardens-reward",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "The rose grows from a sprout with real branching geometry and leaves. Layered petals unfurl. A wave of flowers blooms across the surrounding garden. Aster bows.",
+            "camera": "65 mm close-up of the rose, slowly widen to Sunshine and Aster as the garden blooms.",
+            "landscape": "cinematics/07-gardens-reward.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/07-gardens-reward.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/07-gardens-reward-landscape.mp4",
+            "expectedPortrait": "cinematics/07-gardens-reward-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: The rose grows from a sprout with real branching geometry and leaves. Layered petals unfurl. A wave of flowers blooms across the surrounding garden. Aster bows. CAMERA: 65 mm close-up of the rose, slowly widen to Sunshine and Aster as the garden blooms. DURATION: 9 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: The rose grows from a sprout with real branching geometry and leaves. Layered petals unfurl. A wave of flowers blooms across the surrounding garden. Aster bows. CAMERA: 65 mm close-up of the rose, slowly widen to Sunshine and Aster as the garden blooms. DURATION: 9 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "20-gardens-reward.mp4.mp4",
+            "hasAudio": true,
+            "caption": "A whole garden blooms for Sunshine."
+          }
+        ],
+        "departure": [
+          {
+            "id": "07-gardens-departure",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Sunshine and Aster walk beneath a blooming arch toward the palace gates. Clover hurries out, straightening his little royal coat.",
+            "camera": "35 mm tracking; end centered on the gate medallion at Sunshine’s eye level.",
+            "landscape": "cinematics/07-gardens-departure.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/07-gardens-departure.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/07-gardens-departure-landscape.mp4",
+            "expectedPortrait": "cinematics/07-gardens-departure-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine and Aster walk beneath a blooming arch toward the palace gates. Clover hurries out, straightening his little royal coat. CAMERA: 35 mm tracking; end centered on the gate medallion at Sunshine’s eye level. DURATION: 6 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine and Aster walk beneath a blooming arch toward the palace gates. Clover hurries out, straightening his little royal coat. CAMERA: 35 mm tracking; end centered on the gate medallion at Sunshine’s eye level. DURATION: 6 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "pavo-b5ad2bf1369c-0-74411a4101f9.mp4",
+            "hasAudio": true,
+            "caption": "Your palace is closer than ever."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": 7,
+      "slug": "gates",
+      "title": "Palace Gates",
+      "poster": "cinematics/posters/08-gates-arrival.jpg",
+      "gameplayPoster": "cinematics/posters/08-gates-arrival.jpg",
+      "idle": null,
+      "phases": {
+        "arrival": [
+          {
+            "id": "08-gates-arrival",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Clover welcomes Sunshine and reveals three keepsake recesses and concentric moon and heart rings. Sunshine places her hand near the lock.",
+            "camera": "50 mm over-shoulder, settle on keepsake recesses without hiding the heroine’s face.",
+            "landscape": "cinematics/08-gates-arrival.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/08-gates-arrival.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/08-gates-arrival-landscape.mp4",
+            "expectedPortrait": "cinematics/08-gates-arrival-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Clover welcomes Sunshine and reveals three keepsake recesses and concentric moon and heart rings. Sunshine places her hand near the lock. CAMERA: 50 mm over-shoulder, settle on keepsake recesses without hiding the heroine’s face. DURATION: 7 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Clover welcomes Sunshine and reveals three keepsake recesses and concentric moon and heart rings. Sunshine places her hand near the lock. CAMERA: 50 mm over-shoulder, settle on keepsake recesses without hiding the heroine’s face. DURATION: 7 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "22-gates-arrival.mp4.mp4",
+            "hasAudio": true,
+            "caption": "Clover welcomes you to the royal gates."
+          },
+          {
+            "id": "D06-clover-gates",
+            "label": "Clover has been waiting at the palace gates.",
+            "kind": "dialogue",
+            "status": "ready",
+            "seconds": 8.0,
+            "landscape": "cinematics/D06-clover-gates.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/D06-clover-gates.jpg",
+            "portraitPoster": null,
+            "sourceFile": "D06-clover-gates.mp4.mp4",
+            "hasAudio": true,
+            "caption": "Clover has been waiting at the palace gates."
+          }
+        ],
+        "reward": [
+          {
+            "id": "08-gates-reward",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Woodland charm, memory rose and crystal star glow in their matching spaces. The aligned moon and heart rings turn; a golden key slides into place. Grand doors swing inward.",
+            "camera": "50 mm close-up to 24 mm symmetrical wide; heroine and companions safely outside door arc.",
+            "landscape": "cinematics/08-gates-reward.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/08-gates-reward.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/08-gates-reward-landscape.mp4",
+            "expectedPortrait": "cinematics/08-gates-reward-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Woodland charm, memory rose and crystal star glow in their matching spaces. The aligned moon and heart rings turn; a golden key slides into place. Grand doors swing inward. CAMERA: 50 mm close-up to 24 mm symmetrical wide; heroine and companions safely outside door arc. DURATION: 8 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Woodland charm, memory rose and crystal star glow in their matching spaces. The aligned moon and heart rings turn; a golden key slides into place. Grand doors swing inward. CAMERA: 50 mm close-up to 24 mm symmetrical wide; heroine and companions safely outside door arc. DURATION: 8 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "pavo-51e29b686dea-0-8c4e25f8f67d.mp4",
+            "hasAudio": true,
+            "caption": "The gifts you gathered open the way home."
+          }
+        ],
+        "departure": [
+          {
+            "id": "08-gates-departure",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Sunshine steps across the threshold with her companions. Warm light falls across her emerald dress. The carpet leads to the throne in the distance.",
+            "camera": "35 mm follow through doorway; end centered behind Sunshine at the carpet’s beginning.",
+            "landscape": "cinematics/08-gates-departure.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/08-gates-departure.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/08-gates-departure-landscape.mp4",
+            "expectedPortrait": "cinematics/08-gates-departure-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine steps across the threshold with her companions. Warm light falls across her emerald dress. The carpet leads to the throne in the distance. CAMERA: 35 mm follow through doorway; end centered behind Sunshine at the carpet’s beginning. DURATION: 7 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine steps across the threshold with her companions. Warm light falls across her emerald dress. The carpet leads to the throne in the distance. CAMERA: 35 mm follow through doorway; end centered behind Sunshine at the carpet’s beginning. DURATION: 7 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "24-gates-departure.mp4.mp4",
+            "hasAudio": true,
+            "caption": "Step inside. Your kingdom has been waiting."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": 8,
+      "slug": "welcome",
+      "title": "Queen’s Welcome",
+      "poster": "cinematics/posters/09-welcome-arrival.jpg",
+      "gameplayPoster": "cinematics/posters/09-welcome-arrival.jpg",
+      "idle": null,
+      "phases": {
+        "arrival": [
+          {
+            "id": "09-welcome-arrival",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "All ten companions wait in a grand hall: Lumi, Wisp holding the envelope, Rosie, Selene, Orin, Moss, Ember, Aster, Clover and Aurelius. Aurelius bows to Sunshine at the carpet’s beginning.",
+            "camera": "24 mm symmetrical hall establish then 50 mm heroine reaction. End at first carpet motif.",
+            "landscape": "cinematics/09-welcome-arrival.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/09-welcome-arrival.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/09-welcome-arrival-landscape.mp4",
+            "expectedPortrait": "cinematics/09-welcome-arrival-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: All ten companions wait in a grand hall: Lumi, Wisp holding the envelope, Rosie, Selene, Orin, Moss, Ember, Aster, Clover and Aurelius. Aurelius bows to Sunshine at the carpet’s beginning. CAMERA: 24 mm symmetrical hall establish then 50 mm heroine reaction. End at first carpet motif. DURATION: 8 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: All ten companions wait in a grand hall: Lumi, Wisp holding the envelope, Rosie, Selene, Orin, Moss, Ember, Aster, Clover and Aurelius. Aurelius bows to Sunshine at the carpet’s beginning. CAMERA: 24 mm symmetrical hall establish then 50 mm heroine reaction. End at first carpet motif. DURATION: 8 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "25-royal-welcome.mp4.mp4",
+            "hasAudio": true,
+            "caption": "All your friends are here to welcome their queen."
+          }
+        ],
+        "reward": [
+          {
+            "id": "09-welcome-reward-walk",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Sunshine walks along the carpet with natural heel-to-toe foot contact. Her emerald dress trails with physically plausible cloth. All ten companions watch proudly.",
+            "camera": "35 mm slow backward dolly. End with Sunshine standing one step before the throne, facing it.",
+            "landscape": "cinematics/09-welcome-reward-walk.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/09-welcome-reward-walk.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/09-welcome-reward-walk-landscape.mp4",
+            "expectedPortrait": "cinematics/09-welcome-reward-walk-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine walks along the carpet with natural heel-to-toe foot contact. Her emerald dress trails with physically plausible cloth. All ten companions watch proudly. CAMERA: 35 mm slow backward dolly. End with Sunshine standing one step before the throne, facing it. DURATION: 8 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine walks along the carpet with natural heel-to-toe foot contact. Her emerald dress trails with physically plausible cloth. All ten companions watch proudly. CAMERA: 35 mm slow backward dolly. End with Sunshine standing one step before the throne, facing it. DURATION: 8 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "26-royal-carpet.mp4.mp4",
+            "hasAudio": true,
+            "caption": "The royal carpet leads to your throne."
+          },
+          {
+            "id": "09-welcome-reward-sit",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Sunshine approaches the throne, turns to face the room, uses an armrest lightly, bends knees and hips and sits naturally. Skirt settles over the chair; feet remain grounded.",
+            "camera": "50 mm three-quarter side shot; keep hips, knees, hands and seat visible. End with seated heroine centered.",
+            "landscape": "cinematics/09-welcome-reward-sit.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/09-welcome-reward-sit.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/09-welcome-reward-sit-landscape.mp4",
+            "expectedPortrait": "cinematics/09-welcome-reward-sit-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine approaches the throne, turns to face the room, uses an armrest lightly, bends knees and hips and sits naturally. Skirt settles over the chair; feet remain grounded. CAMERA: 50 mm three-quarter side shot; keep hips, knees, hands and seat visible. End with seated heroine centered. DURATION: 8 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine approaches the throne, turns to face the room, uses an armrest lightly, bends knees and hips and sits naturally. Skirt settles over the chair; feet remain grounded. CAMERA: 50 mm three-quarter side shot; keep hips, knees, hands and seat visible. End with seated heroine centered. DURATION: 8 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "27-throne-seated.mp4.mp4",
+            "hasAudio": true,
+            "caption": "A place that has always been yours."
+          },
+          {
+            "id": "09-welcome-reward-crown",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Aurelius gently guides a floating gold crown down onto Sunshine’s head. She looks up then smiles. The wish tree lights one leaf at a time.",
+            "camera": "65 mm medium seated portrait, crown and hands in frame; end with crown fully settled and tree glowing.",
+            "landscape": "cinematics/09-welcome-reward-crown.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/09-welcome-reward-crown.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/09-welcome-reward-crown-landscape.mp4",
+            "expectedPortrait": "cinematics/09-welcome-reward-crown-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Aurelius gently guides a floating gold crown down onto Sunshine’s head. She looks up then smiles. The wish tree lights one leaf at a time. CAMERA: 65 mm medium seated portrait, crown and hands in frame; end with crown fully settled and tree glowing. DURATION: 7 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Aurelius gently guides a floating gold crown down onto Sunshine’s head. She looks up then smiles. The wish tree lights one leaf at a time. CAMERA: 65 mm medium seated portrait, crown and hands in frame; end with crown fully settled and tree glowing. DURATION: 7 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "28-coronation.mp4.mp4",
+            "hasAudio": true,
+            "caption": "Welcome home, Queen Sunshine."
+          }
+        ],
+        "departure": [
+          {
+            "id": "09-welcome-departure",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "After the celebration, Wisp approaches Sunshine with the same envelope. She stands gently and follows him to a warm alcove.",
+            "camera": "50 mm two-shot tracking from throne to quiet palace corner; envelope stays in Wisp’s paws.",
+            "landscape": "cinematics/09-welcome-departure.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/09-welcome-departure.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/09-welcome-departure-landscape.mp4",
+            "expectedPortrait": "cinematics/09-welcome-departure-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: After the celebration, Wisp approaches Sunshine with the same envelope. She stands gently and follows him to a warm alcove. CAMERA: 50 mm two-shot tracking from throne to quiet palace corner; envelope stays in Wisp’s paws. DURATION: 6 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: After the celebration, Wisp approaches Sunshine with the same envelope. She stands gently and follows him to a warm alcove. CAMERA: 50 mm two-shot tracking from throne to quiet palace corner; envelope stays in Wisp’s paws. DURATION: 6 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "30-letter-approach.mp4.mp4",
+            "hasAudio": true,
+            "caption": "Wisp has carried one last surprise all this way."
+          }
+        ],
+        "surprise": [
+          {
+            "id": "D07-lumi-secret",
+            "label": "Lumi has one more surprise.",
+            "kind": "dialogue",
+            "status": "ready",
+            "seconds": 8.0,
+            "landscape": "cinematics/D07-lumi-secret.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/D07-lumi-secret.jpg",
+            "portraitPoster": null,
+            "sourceFile": "D07-lumi-secret.mp4.mp4",
+            "hasAudio": true,
+            "caption": "Lumi has one more surprise."
+          },
+          {
+            "id": "D13-siran-cake-entrance",
+            "label": "Siran arrives with a birthday surprise.",
+            "kind": "scene",
+            "status": "ready",
+            "seconds": 8.0,
+            "landscape": "cinematics/D13-siran-cake-entrance.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/D13-siran-cake-entrance.jpg",
+            "portraitPoster": null,
+            "sourceFile": "D13-siran-cake-entrance.mp4.mp4",
+            "hasAudio": true,
+            "caption": "Siran arrives with a birthday surprise."
+          },
+          {
+            "id": "D14-siran-cake-presentation",
+            "label": "A magical birthday, made for his queen.",
+            "kind": "dialogue",
+            "status": "ready",
+            "seconds": 8.0,
+            "landscape": "cinematics/D14-siran-cake-presentation.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/D14-siran-cake-presentation.jpg",
+            "portraitPoster": null,
+            "sourceFile": "D14-siran-cake-presentation.mp4.mp4",
+            "hasAudio": true,
+            "caption": "A magical birthday, made for his queen."
+          },
+          {
+            "id": "D08-sunshine-reaction",
+            "label": "A birthday surprise, just for Sunshine.",
+            "kind": "scene",
+            "status": "ready",
+            "seconds": 8.0,
+            "landscape": "cinematics/D08-sunshine-reaction.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/D08-sunshine-reaction.jpg",
+            "portraitPoster": null,
+            "sourceFile": "D08-sunshine-reaction.mp4.mp4",
+            "hasAudio": true,
+            "caption": "A birthday surprise, just for Sunshine."
+          },
+          {
+            "id": "D09-cake-gathering",
+            "label": "Your friends gather around the birthday cake.",
+            "kind": "scene",
+            "status": "ready",
+            "seconds": 8.0,
+            "landscape": "cinematics/D09-cake-gathering.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/D09-cake-gathering.jpg",
+            "portraitPoster": null,
+            "sourceFile": "D09-cake-gathering.mp4.mp4",
+            "hasAudio": true,
+            "caption": "Your friends gather around the birthday cake."
+          },
+          {
+            "id": "D10-lumi-birthday-wish",
+            "label": "A birthday wish from Lumi.",
+            "kind": "dialogue",
+            "status": "ready",
+            "seconds": 8.0,
+            "landscape": "cinematics/D10-lumi-birthday-wish.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/D10-lumi-birthday-wish.jpg",
+            "portraitPoster": null,
+            "sourceFile": "D10-lumi-birthday-wish.mp4.mp4",
+            "hasAudio": true,
+            "caption": "A birthday wish from Lumi."
+          },
+          {
+            "id": "D11-rosie-message",
+            "label": "A little message from Rosie.",
+            "kind": "dialogue",
+            "status": "ready",
+            "seconds": 8.0,
+            "landscape": "cinematics/D11-rosie-message.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/D11-rosie-message.jpg",
+            "portraitPoster": null,
+            "sourceFile": "D11-rosie-message.mp4.mp4",
+            "hasAudio": true,
+            "caption": "A little message from Rosie."
+          }
+        ],
+        "celebration": [
+          {
+            "id": "D12-candles-out",
+            "label": "Your wish lights up the kingdom.",
+            "kind": "scene",
+            "status": "ready",
+            "seconds": 8.0,
+            "landscape": "cinematics/D12-candles-out.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/D12-candles-out.jpg",
+            "portraitPoster": null,
+            "sourceFile": "D12-candles-out.mp4.mp4",
+            "hasAudio": true,
+            "caption": "Your wish lights up the kingdom."
+          },
+          {
+            "id": "09-welcome-reward-celebrate",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "All ten companions celebrate together; Ember releases safe sparks, Lumi circles the tree. Fireworks shine through the hall windows as Sunshine smiles on the throne.",
+            "camera": "35 mm widen from seated portrait to entire cast and wish tree. Leave upper center clear for website birthday text.",
+            "landscape": "cinematics/09-welcome-reward-celebrate.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/09-welcome-reward-celebrate.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/09-welcome-reward-celebrate-landscape.mp4",
+            "expectedPortrait": "cinematics/09-welcome-reward-celebrate-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: All ten companions celebrate together; Ember releases safe sparks, Lumi circles the tree. Fireworks shine through the hall windows as Sunshine smiles on the throne. CAMERA: 35 mm widen from seated portrait to entire cast and wish tree. Leave upper center clear for website birthday text. DURATION: 9 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: All ten companions celebrate together; Ember releases safe sparks, Lumi circles the tree. Fireworks shine through the hall windows as Sunshine smiles on the throne. CAMERA: 35 mm widen from seated portrait to entire cast and wish tree. Leave upper center clear for website birthday text. DURATION: 9 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "pavo-2b3e8032757e-0-71969ce5d41f.mp4",
+            "hasAudio": true,
+            "caption": "Tonight, the whole kingdom celebrates you."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": 9,
+      "slug": "letter",
+      "title": "Letter for the Queen",
+      "poster": "cinematics/posters/10-letter-arrival.jpg",
+      "gameplayPoster": "cinematics/posters/10-letter-arrival.jpg",
+      "idle": null,
+      "phases": {
+        "arrival": [
+          {
+            "id": "10-letter-arrival",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Sunshine sits beside a softly lit palace window. Wisp climbs onto a cushion and offers the envelope he has carried throughout the journey.",
+            "camera": "50 mm intimate two-shot; end on Sunshine accepting the envelope with both hands.",
+            "landscape": "cinematics/10-letter-arrival.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/10-letter-arrival.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/10-letter-arrival-landscape.mp4",
+            "expectedPortrait": "cinematics/10-letter-arrival-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine sits beside a softly lit palace window. Wisp climbs onto a cushion and offers the envelope he has carried throughout the journey. CAMERA: 50 mm intimate two-shot; end on Sunshine accepting the envelope with both hands. DURATION: 7 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine sits beside a softly lit palace window. Wisp climbs onto a cushion and offers the envelope he has carried throughout the journey. CAMERA: 50 mm intimate two-shot; end on Sunshine accepting the envelope with both hands. DURATION: 7 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "31-letter-arrival.mp4.mp4",
+            "hasAudio": true,
+            "caption": "One little envelope, kept safe just for you."
+          }
+        ],
+        "reward": [
+          {
+            "id": "10-letter-reward",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Sunshine opens the wax seal gently, unfolds the letter, and reads with a small heartfelt smile. Wisp rests beside her. Keep the physical paper unlettered for readable website text.",
+            "camera": "65 mm over-shoulder then gentle arc to expression; end on calm seated portrait and warm lamp.",
+            "landscape": "cinematics/10-letter-reward.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/10-letter-reward.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/10-letter-reward-landscape.mp4",
+            "expectedPortrait": "cinematics/10-letter-reward-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine opens the wax seal gently, unfolds the letter, and reads with a small heartfelt smile. Wisp rests beside her. Keep the physical paper unlettered for readable website text. CAMERA: 65 mm over-shoulder then gentle arc to expression; end on calm seated portrait and warm lamp. DURATION: 7 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine opens the wax seal gently, unfolds the letter, and reads with a small heartfelt smile. Wisp rests beside her. Keep the physical paper unlettered for readable website text. CAMERA: 65 mm over-shoulder then gentle arc to expression; end on calm seated portrait and warm lamp. DURATION: 7 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "32-letter-reward.mp4.mp4",
+            "hasAudio": true,
+            "caption": "A few words from my heart to yours."
+          }
+        ],
+        "departure": [
+          {
+            "id": "10-letter-departure",
+            "status": "ready",
+            "seconds": 8.0,
+            "label": "Sunshine holds her letter and looks out toward the glowing kingdom. Wisp curls beside her; the palace window frames the night sky.",
+            "camera": "50 mm slow pullback to window. Hold last second for end-card overlay; no generated text.",
+            "landscape": "cinematics/10-letter-departure.mp4",
+            "portrait": null,
+            "poster": "cinematics/posters/10-letter-departure.jpg",
+            "portraitPoster": null,
+            "expectedLandscape": "cinematics/10-letter-departure-landscape.mp4",
+            "expectedPortrait": "cinematics/10-letter-departure-portrait.mp4",
+            "promptLandscape": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine holds her letter and looks out toward the glowing kingdom. Wisp curls beside her; the palace window frames the night sky. CAMERA: 50 mm slow pullback to window. Hold last second for end-card overlay; no generated text. DURATION: 6 seconds at 24 fps. FRAME: landscape 1920×1080, protect the central 55% for characters. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "promptPortrait": "High-quality feature-animation 3D render, physically based materials, dimensional geometry and grounded contact shadows, subtle volumetric light, filmic soft highlights, coherent emerald and antique-gold palette. Use the provided Sunshine identity and character reference sheets as locked references. The adult heroine has exactly the same face, warm brown eyes, long dark wavy hair, proportions, emerald and ivory dress with gold botanical embroidery and gold earrings as the reference. Do not redesign her between shots. Animate facial expression, eye focus, hands, natural weight shifts, hair and cloth; no cardboard cutouts or image-plane zooms. Companions retain their reference identities and proportions. ACTION: Sunshine holds her letter and looks out toward the glowing kingdom. Wisp curls beside her; the palace window frames the night sky. CAMERA: 50 mm slow pullback to window. Hold last second for end-card overlay; no generated text. DURATION: 6 seconds at 24 fps. FRAME: portrait 1080×1920, recomposed camera with both heroine and companion fully visible, no crop of the landscape master; keep controls-safe lower 25% and top 12% clear. Hold the final composition still for 12 frames; begin the next clip with this exact composition and lighting. Keep screen direction left-to-right into the kingdom. Render a matched gameplay hold frame from the same scene. NEGATIVE: No face drift, age change, alternate hairstyle, outfit change, extra limbs or fingers, duplicated companions, sliding feet, fabric intersections, floating seated hips, unsafe sparks, embedded words, watermarks, montage, jump cuts, still-image pan/zoom, flat illustration, photographic alteration, or deformation of personal photographs.",
+            "sourceFile": "33-kingdom-ending.mp4.mp4",
+            "hasAudio": true,
+            "caption": "This little world will always be yours."
+          }
+        ]
+      }
+    }
+  ],
+  "edition": "2026-10-video-update",
+  "cakePoster": "cinematics/posters/D09-cake-gathering.jpg",
+  "captionNote": "Story captions describe the scenes; they are not verbatim speech transcripts."
+}
