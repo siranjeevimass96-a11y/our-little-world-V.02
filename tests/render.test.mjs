@@ -1,0 +1,17 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {build} from 'esbuild';
+import React from 'react';
+import {renderToString} from 'react-dom/server';
+import {mkdir,readFile} from 'node:fs/promises';
+import {initialState,finish} from '../src/state.js';
+await mkdir(new URL('../.qa',import.meta.url),{recursive:true});
+const out=new URL('../.qa/ssr.mjs',import.meta.url);
+await build({entryPoints:[new URL('./ssr-entry.jsx',import.meta.url).pathname],outfile:out.pathname,bundle:true,platform:'node',format:'esm',packages:'external',define:{'import.meta.env.BASE_URL':'"./"'},logLevel:'silent'});
+const {App,Games,Cinematic}=await import(out.href);
+globalThis.matchMedia=()=>({matches:false});
+test('landing renders the cinematic edition without browser-only errors',()=>{globalThis.localStorage={getItem:()=>null};const html=renderToString(React.createElement(App));assert.match(html,/cinematic birthday adventure/);assert.match(html,/Sunshine’s Journey/);assert.match(html,/royal invitation/)});
+test('all ten game and completed chapter states render',()=>{for(let chapter=0;chapter<10;chapter++)for(const completed of [false,true]){let s={...initialState(),started:true,chapter,furthest:9};if(completed)s={...finish(s),cakeCelebrated:true};globalThis.localStorage={getItem:()=>JSON.stringify(s)};const html=renderToString(React.createElement(App));assert.match(html,/chapter-heading/);assert.ok(!html.includes('A little pause in the magic'));if(chapter===8){assert.match(html,/25 wishes/);assert.match(html,/Aurelius/)}if(chapter===9&&completed){assert.match(html,/Some people make ordinary days/);assert.match(html,/Pumpkin/);assert.match(html,/Download royal keepsake/);}}});
+test('photo puzzle has nine accessible pieces and contains full image',()=>{const s={...initialState(),chapter:2};const html=renderToString(React.createElement(Games,{s,patch:()=>{},notice:()=>{}}));assert.equal((html.match(/aria-label="Photo piece/g)||[]).length,9);assert.match(html,/preserveAspectRatio="xMidYMid meet"/)});
+test('gate ring stages render their corresponding accessible range control',()=>{for(const stage of [0,1,2]){const s={...initialState(),chapter:7,gates:[0,1,2],moonLocked:stage>0,heartLocked:stage>1};const html=renderToString(React.createElement(Games,{s,patch:()=>{},notice:()=>{}}));assert.match(html,new RegExp(['Moon ring angle','Heart ring angle','Slide key into the lock'][stage]));}});
+test('planned video uses honest storyboard and ready video uses video element',async()=>{const m=JSON.parse(await readFile(new URL('../public/cinematics/manifest.json',import.meta.url)));const clips=[{...m.chapters[0].phases.arrival[0],status:'planned',landscape:null,portrait:null}];let html=renderToString(React.createElement(Cinematic,{clips,poster:clips[0].poster,title:'Forest',onDone:()=>{}}));assert.match(html,/Scene preview/);assert.ok(!html.includes('<video'));const ready=[{...clips[0],status:'ready',landscape:'cinematics/test.mp4'}];html=renderToString(React.createElement(Cinematic,{clips:ready,poster:clips[0].poster,title:'Forest',onDone:()=>{}}));assert.match(html,/<video/);assert.match(html,/playsInline/);assert.match(html,/cinematics\/test.mp4/)});

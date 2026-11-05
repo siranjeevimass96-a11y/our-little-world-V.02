@@ -1,0 +1,3 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {parseRange} from '../scripts/video-range.mjs';
+test('production server supports normal, open-ended and suffix video ranges',()=>{assert.deepEqual(parseRange('bytes=0-99',1000),{start:0,end:99});assert.deepEqual(parseRange('bytes=500-',1000),{start:500,end:999});assert.deepEqual(parseRange('bytes=-100',1000),{start:900,end:999});assert.deepEqual(parseRange('bytes=900-2000',1000),{start:900,end:999})});
+test('invalid byte requests cannot cause unbounded or negative reads',()=>{for(const range of ['bytes=1000-','bytes=-0','bytes=50-10','bytes=0-5,10-15','bytes=-','bytes=foo','items=0-5'])assert.equal(parseRange(range,1000),false);assert.equal(parseRange('bytes=0-',0),false)});
